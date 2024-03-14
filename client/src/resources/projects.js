@@ -1,0 +1,42 @@
+export const projects = [
+    {
+        technologies: [],
+        _id: '1',
+        title: 'TITLE 1',
+        image: 'https://integrio.net/static/f303719d35fe03fb5a199466b9cc3ea9/end-to-end-development-services.png',
+        description: 'This is a real-estate web application developed using MERN stack',
+        link: '/',
+    },
+    {
+        technologies: [],
+        _id: '2',
+        title: 'TITLE 2',
+        image: 'https://integrio.net/static/f303719d35fe03fb5a199466b9cc3ea9/end-to-end-development-services.png',
+        description: 'This is a real-estate web application developed using MERN stack',
+        link: '/',
+    },
+    {
+        technologies: [],
+        _id: '3',
+        title: 'TITLE 3',
+        image: 'https://png.pngtree.com/png-vector/20200312/ourmid/pngtree-modern-flat-design-concept-of-programmers-at-work-concept-software-development-png-image_2157879.jpg',
+        description: 'This is a real-estate web application developed using MERN stack',
+        link: '/',
+    },
+    {
+        technologies: [],
+        _id: '2',
+        title: 'TITLE 2',
+        image: 'https://integrio.net/static/f303719d35fe03fb5a199466b9cc3ea9/end-to-end-development-services.png',
+        description: 'This is a real-estate web application developed using MERN stack',
+        link: '/',
+    },
+    {
+        technologies: [],
+        _id: '3',
+        title: 'TITLE 3',
+        image: 'https://png.pngtree.com/png-vector/20200312/ourmid/pngtree-modern-flat-design-concept-of-programmers-at-work-concept-software-development-png-image_2157879.jpg',
+        description: 'This is a real-estate web application developed using MERN stack',
+        link: '/',
+    },
+]
