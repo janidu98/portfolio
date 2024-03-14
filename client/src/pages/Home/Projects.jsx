@@ -29,7 +29,7 @@ const Projects = () => {
           ))}
         </div>
 
-        <div className="flex items-center gap-10 justify-center">
+        <div className="flex items-center gap-10 justify-center sm:flex-col">
           <img src={projects[selectedItemIndex].image} alt="image" className="h-36 w-72"/>
 
           <div className="flex flex-col gap-5">
